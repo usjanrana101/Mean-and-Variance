@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<math.h>
-#include<mean_var.h> // including the user header file
+#include"mean_var.h" // including the user header file
 
 void main(){
 int n=100,i;  //Declaration of variables to to get the no of elements
