@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<math.h>
-#include<mean_var.h> // including the user header file
+#include"mean_var.h" // including the user header file
 
 // definition of the dealared funtion
 float* mean_var(float* ptr,int n)  // 'ptr' and'n' are the local variables
